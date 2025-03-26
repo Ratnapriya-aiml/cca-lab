@@ -1,1 +1,1 @@
-# cca-lab
+print("welcome")
